@@ -1,0 +1,9 @@
+site_name: Oferta Académica Institucional
+theme:
+  name: material
+nav:
+  - Inicio: index.md
+  - Facultad de Ciencias Económicas y Empresariales: economicas.md
+  - Facultad de Ingenierías y Arquitectura: ingenierias.md
+  - Facultad de Ciencias de la Salud: salud.md
+
